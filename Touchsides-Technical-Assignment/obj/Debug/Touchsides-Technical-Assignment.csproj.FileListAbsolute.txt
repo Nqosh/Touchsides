@@ -1,0 +1,7 @@
+C:\Users\CT301728\source\repos\Touchsides-Technical-Assignment\Touchsides-Technical-Assignment\bin\Debug\Touchsides-Technical-Assignment.exe.config
+C:\Users\CT301728\source\repos\Touchsides-Technical-Assignment\Touchsides-Technical-Assignment\bin\Debug\Touchsides-Technical-Assignment.exe
+C:\Users\CT301728\source\repos\Touchsides-Technical-Assignment\Touchsides-Technical-Assignment\bin\Debug\Touchsides-Technical-Assignment.pdb
+C:\Users\CT301728\source\repos\Touchsides-Technical-Assignment\Touchsides-Technical-Assignment\obj\Debug\Touchsides-Technical-Assignment.csproj.AssemblyReference.cache
+C:\Users\CT301728\source\repos\Touchsides-Technical-Assignment\Touchsides-Technical-Assignment\obj\Debug\Touchsides-Technical-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\CT301728\source\repos\Touchsides-Technical-Assignment\Touchsides-Technical-Assignment\obj\Debug\Touchsides-Technical-Assignment.exe
+C:\Users\CT301728\source\repos\Touchsides-Technical-Assignment\Touchsides-Technical-Assignment\obj\Debug\Touchsides-Technical-Assignment.pdb
